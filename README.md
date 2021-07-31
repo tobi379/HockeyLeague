@@ -2,4 +2,4 @@
 
 Simple Web Page made for MindHub
 
-Link: 
+Link: https://tobi379.github.io/HockeyLeague/
